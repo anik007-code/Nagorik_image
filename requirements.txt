@@ -1,0 +1,5 @@
+transformers
+streamlit
+sklearn
+pandas 
+pillow 
